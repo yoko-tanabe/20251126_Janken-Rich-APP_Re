@@ -1,5 +1,6 @@
 # ①課題名
 めんどくさがり屋のための、会社での段差付き割り勘を楽チンにするアプリにチャット送信機能をつけました
+<img width="1241" height="754" alt="スクリーンショット 2026-01-31 20 40 27" src="https://github.com/user-attachments/assets/4b8abb9c-1a6d-42b1-adc3-b6211163d42b" />
 
 ## ②課題内容（どんな作品か）
 -飲み会のお会計をまとめて払った場合に、誰がいくら負担するかを、職責を考慮しながら簡単に計算できるアプリです
@@ -35,3 +36,4 @@ https://github.com/yoko-tanabe/20251129_Memo-App/tree/main
 - [参考記事]
   - 1. https://webliker.info/web-skill/how-to-use-localstrage/
   - 2. https://joyplot.com/documents/javascript-%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0-%E6%95%B0%E5%80%A4-%E5%8F%96%E5%BE%97/
+
